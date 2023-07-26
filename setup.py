@@ -16,7 +16,7 @@ setup(
     long_description_content_type='text/markdown',
     install_requires=[
         'numpy',
-        'opencv-python',
+        'opencv-python-headless',
         'pyzbar',
         'qrdet'
     ],
